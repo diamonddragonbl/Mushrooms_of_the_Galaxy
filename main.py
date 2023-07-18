@@ -1,5 +1,6 @@
 import pygame, sys
 from settings import *
+from tiles import Tile
 
 pygame.init()
 screen = pygame.display.set_mode((screen_width, screen_height))

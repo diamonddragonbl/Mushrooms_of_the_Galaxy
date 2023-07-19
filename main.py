@@ -18,4 +18,4 @@ while True:
 
     pygame.display.update()
     clock.tick(60)
-# 25:32
+# 44:06

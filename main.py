@@ -19,3 +19,4 @@ while True:
     pygame.display.update()
     clock.tick(60)
 # 44:06
+# https://www.youtube.com/watch?v=YWN8GcmJ-jA
